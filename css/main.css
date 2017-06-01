@@ -1,0 +1,8 @@
+body{
+	background-image:	url('../images/clockBg.jpg');
+}
+#time{
+	color: yellow;
+	font-size: 150px;
+	margin: 400px auto;
+}
